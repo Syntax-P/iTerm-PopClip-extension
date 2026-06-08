@@ -1,4 +1,4 @@
-# Run in iTerm — PopClip Extension
+# Run in iTerm - PopClip Extension
 
 A [PopClip](https://www.popclip.app) extension that sends selected text to [iTerm2](https://iterm2.com) as a terminal command, opening it in a new window automatically.
 
