@@ -1,0 +1,13 @@
+# popclip
+name: Run in iTerm
+identifier: com.iterm2.popclip.run
+icon: iconify:mdi:console
+description: Open selected text as a command in a new iTerm2 window.
+app:
+  name: iTerm2
+  link: https://iterm2.com
+  bundle identifiers: [com.googlecode.iterm2]
+actions:
+  - title: Run in iTerm
+    icon: iconify:mdi:console
+    shell script file: run.sh
